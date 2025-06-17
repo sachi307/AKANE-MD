@@ -1,62 +1,53 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=435&lines=💫+AKANE+MD+-+Anime+WhatsApp+Bot;By+Richie+%F0%9F%94%A5;Multi-Purpose+MD+Bot;Keep+Using+%E2%AD%84%EF%B8%8F+More+Updates+Soon..." alt="Typing SVG" />
+  <img src="https://media.tenor.com/Vv1Iit1w4ZgAAAAC/anime-girl.gif" width="300" /><br>
+  <strong>✨ AKANE-MD ✨</strong>
 </h1>
 
-<p align="center">
-  <img src="https://files.catbox.moe/l9gpzm.jpg" height="280" style="border-radius:15px;" />
-</p>
-
-<h3 align="center">🌸 Welcome to <code>AKANE-MD</code> — a Next-Gen Anime-Style WhatsApp MD Bot! 🌸</h3>
+<p align="center"><i>The Ultimate Anime WhatsApp MD Bot - Powered by Richie</i></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Maintained%3F-yes-66ccff" alt="maintained" />
-  <img src="https://img.shields.io/github/license/Richie/Akane-MD?color=ff69b4" alt="license" />
-  <img src="https://img.shields.io/badge/By-Richie-%23ff69b4" />
-</p>
-
----
-
-## 🧩 Features
-- ✅ Anime-styled UI
-- 🧠 AI & Chatbot support
-- 🛡️ Group management (antilink, kick, welcome, etc.)
-- 🎨 Sticker & Media tools
-- 🌐 YouTube / GitHub downloader
-- 📦 Temp Mail, SSWeb, Translator, TinyURL
-- 🏓 Ping / Eval / Broadcast / TagAll
-- 💾 Custom database & plugin system
-- 🚀 Fully async and blazing fast
-
----
-
-## 👑 Developer
-
-| 👤 RICHIE |
-|:--:|
-| 💻 First MD project |
-| 🔥 Built from scratch |
-| 🀄 Anime-inspired aesthetic |
-
----
-
-## 📱 Connect with Me
-
-<p align="center">
-  <a href="https://whatsapp.com/channel/0029VbAdqowK0IBd0uqhyl38">
-    <img src="https://img.shields.io/badge/WhatsApp%20Channel-%2300e676.svg?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
   <a href="https://akane-md.onrender.com/pair">
-    <img src="https://img.shields.io/badge/Pair%20Session-%23ff4fc9.svg?style=for-the-badge&logo=linktree&logoColor=white" />
+    <img src="https://img.shields.io/badge/🌐%20Pair%20Session-AkaneMD-blueviolet?style=for-the-badge&logo=whatsapp" />
+  </a>
+  <a href="https://whatsapp.com/channel/0029VbAdqowK0IBd0uqhyl38">
+    <img src="https://img.shields.io/badge/%F0%9F%92%8C%20WA%20Channel-Richie-success?style=for-the-badge&logo=whatsapp" />
   </a>
   <a href="https://t.me/akanemd">
-    <img src="https://img.shields.io/badge/Telegram-%23026aa7.svg?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img src="https://img.shields.io/badge/🔮%20AkaneMD-Telegram-blue?style=for-the-badge&logo=telegram" />
   </a>
 </p>
 
 ---
 
-## 🌐 Deploy & Pair Bot
+<p align="center">
+  <img src="https://files.catbox.moe/l9gpzm.jpg" height="270" style="border-radius:12px;" />
+</p>
+
+---
+
+## 💠 What is Akane-MD?
+
+> **Akane-MD** is a multi-purpose, anime-themed WhatsApp bot powered by [@Richie](https://github.com/richiethgoat).  
+> It's fast, cute, and packed with powerful features for both groups and private chats.
+
+---
+
+## 🔧 Features
+- 🌟 Anime-powered styled UI
+- 🎭 Anonymous Chat System
+- 🎶 YouTube Music + Video Downloader
+- 🎙️ TTS & AI Replies
+- 🛡️ Group Management (kick, promote, antilink, welcome)
+- 📦 Plugins System (add your own!)
+- 🎨 Sticker Tools & Image Editing
+- ✨ Anti Delete, Always Online, Mode Toggle, and more
+
+---
+
+## 🚀 How to Start
 
 ```bash
-Visit: https://akane-md.onrender.com/pair
-Scan QR or Input Number to Start!
+git clone https://github.com/richiethgoat/akane-md
+cd akane-md
+npm install
+node .
