@@ -11,7 +11,7 @@ require('dotenv').config();
 //================= { SETTINGS } =================\\
 global.owner = process.env.OWNER_NUMBER || "234"; // owner number 
 global.botimg = 'https://files.catbox.moe/l9gpzm.jpg'
-global.sudo = process.env.SUDO  || " ";
+global.sudo = process.env.SUDO  || " Akane-Md_1b60ea65c01c2b3b1015a78a7afa7624";
 global.ownername = process.env.OWNER_NAME || "Richie";
 global.botname = process.env.BOT_NAME || "AKANE"
 global.onlypc = process.env.ONLYPC_MSG  || "Sorry buddy the bot won't work directly in group chat to reduce spam use in private chat";
